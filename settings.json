@@ -1,0 +1,12 @@
+{
+  "chat-url": "https://discordapp.com/channels/654716622438662144/654749274210435084",
+  "textbox-class": "slateTextArea-1Mkdgw",
+  "login-credentials": {"username":  "your@mail.com", "password":  "your!password.is:save_here"},
+  "login-form": {
+    "username-box": "/html/body/div/div[1]/div/div[2]/div/form/div/div/div[1]/div[3]/div[1]/div/input",
+    "password-box":  "/html/body/div/div[1]/div/div[2]/div/form/div/div/div[1]/div[3]/div[2]/div/input"
+  },
+  "discord-login-url": "https://discordapp.com/login",
+  "sleep-time": {"min":  2, "max":  7},
+  "reward": {"words":  20, "reward_message":  "!rank"}
+}
